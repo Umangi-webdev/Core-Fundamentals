@@ -132,9 +132,8 @@ Interview Preparation
 |----------|--------|
 | DBMS | 🟢 Completed |
 | Operating System | 🟡 In Progress |
-| Computer Networks | 🟡 In Progress |
+| Computer Networks | 🟡 Completed |
 | OOP | 🟢 Completed |
-| SQL | 🟢 Completed |
 
 ---
 
