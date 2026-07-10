@@ -131,7 +131,7 @@ Interview Preparation
 | Subject | Status |
 |----------|--------|
 | DBMS | 🟢 Completed |
-| Operating System | 🟡 In Progress |
+| Operating System | 🟡 Completed |
 | Computer Networks | 🟡 Completed |
 | OOP | 🟢 Completed |
 
